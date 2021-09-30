@@ -8,7 +8,7 @@ Contribute to open source is always fun . Here beginner can contribute to open s
 Let's make a beautiful website full of quotes 
 
 step1:signup with your Github Account at https://hacktoberfest.digitalocean.com/                                        
-step2:go to the repository https://github.com/suman-shah/hacktoberfest-2021
+step2:go to the repository https://github.com/suman-shah/Quotes-website-by-friends
 step3:click on foke button to foke the project
 step4:add you name and your Quotes 
 
