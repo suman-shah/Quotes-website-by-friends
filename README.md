@@ -4,6 +4,9 @@ Contribute to open source is always fun . Here beginner can contribute to open s
 #################--------- Hacktoberfest is open to everyone in our global community. Whether you’re a seasoned contributor or looking for projects to contribute to for the first time, you’re welcome to participate.-----------#####################                       
 
 -------------------------------------------------Process to follow to contribute to open source -------------------------------------
+
+Let's make a beautiful website full of quotes 
+
 step1:signup with your Github Account at https://hacktoberfest.digitalocean.com/                                        
 step2:go to the repository https://github.com/suman-shah/hacktoberfest-2021
 step3:click on foke button to foke the project
