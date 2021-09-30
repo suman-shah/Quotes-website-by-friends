@@ -1,4 +1,4 @@
-# Hacktoberfest-2021
+# Hacktoberfest-2021 Quotes website through my friends
 Contribute to open source is always fun . Here beginner can contribute to open source just by doing some simple task you need to submit your name and quotes you love
 
 #################--------- Hacktoberfest is open to everyone in our global community. Whether you’re a seasoned contributor or looking for projects to contribute to for the first time, you’re welcome to participate.-----------#####################                       
